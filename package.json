@@ -1,0 +1,16 @@
+{
+  "name": "pure-react",
+  "version": "1.0.0",
+  "description": "Pure React",
+  "main": "index.js",
+  "scripts": {
+    "format" : "prettier --write \"./**/*.{html,js,jsx,ts,tsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.1"
+  }
+}

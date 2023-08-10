@@ -14,3 +14,8 @@
 
 
 please check the [link](https://react-v8.holt.courses/lessons/no-frills-react/pure-react) for reference.
+
+> # Some usefull npm installations
+
+npm i -D prettier
+npm i -D eslint eslint-config-prettier

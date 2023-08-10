@@ -4,13 +4,15 @@
   "description": "Pure React",
   "main": "index.js",
   "scripts": {
-    "format" : "prettier --write \"./**/*.{html,js,jsx,ts,tsx}\"",
+    "format": "prettier --write \"./**/*.{html,js,jsx,ts,tsx}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^8.46.0",
+    "eslint-config-prettier": "^9.0.0",
     "prettier": "^3.0.1"
   }
 }

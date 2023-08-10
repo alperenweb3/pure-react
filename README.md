@@ -16,5 +16,6 @@
 
 - npm i -D prettier
 - npm i -D eslint eslint-config-prettier
+- npm install -D eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 
 please check the [link](https://react-v8.holt.courses/lessons/no-frills-react/pure-react) for reference.

@@ -12,10 +12,9 @@
 
 > ReactDOM.createRoot is a new API as of React v18. The old `ReactDOM.render` is still available (and deprecated) but it'll render your app in "legacy" mode which won't use all the fun new features packed into React v18
 
-
-please check the [link](https://react-v8.holt.courses/lessons/no-frills-react/pure-react) for reference.
-
 # Some usefull npm installations
 
 - npm i -D prettier
 - npm i -D eslint eslint-config-prettier
+
+please check the [link](https://react-v8.holt.courses/lessons/no-frills-react/pure-react) for reference.
